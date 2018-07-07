@@ -10,6 +10,6 @@ public class MonitorController {
 	
 	@GetMapping("/check")
 	public String check() {
-		return "SUCCESS";
+		return "!!!!!!!!";
 	}
 }
